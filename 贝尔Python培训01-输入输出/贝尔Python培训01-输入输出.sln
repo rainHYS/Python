@@ -11,6 +11,12 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习3-分隔字符串", "
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习4-3倍数字", "练习4-3倍数字\练习4-3倍数字.pyproj", "{BBAA6FAE-7D0C-4AC2-B150-4ED24567C3BC}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习5-长方形的面积", "练习5-长方形的面积\练习5-长方形的面积.pyproj", "{D648BFE7-EF0B-4475-90C6-D38A45FD4F9C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习6-买木板", "练习6-买木板\练习6-买木板.pyproj", "{408ADA8E-3B1C-48B4-8B75-C1EFD64D704A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习7-数学计算", "练习7-数学计算\练习7-数学计算.pyproj", "{AE9AC7B9-62EF-4331-813A-1E7D11B989D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +31,12 @@ Global
 		{BFA81DAC-90CF-4203-85A8-457A36F60A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBAA6FAE-7D0C-4AC2-B150-4ED24567C3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BBAA6FAE-7D0C-4AC2-B150-4ED24567C3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D648BFE7-EF0B-4475-90C6-D38A45FD4F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D648BFE7-EF0B-4475-90C6-D38A45FD4F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408ADA8E-3B1C-48B4-8B75-C1EFD64D704A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408ADA8E-3B1C-48B4-8B75-C1EFD64D704A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9AC7B9-62EF-4331-813A-1E7D11B989D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9AC7B9-62EF-4331-813A-1E7D11B989D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
