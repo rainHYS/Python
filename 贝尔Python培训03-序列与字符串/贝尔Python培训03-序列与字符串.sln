@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习1-判断索引5", "练习1-判断索引5\练习1-判断索引5.pyproj", "{3735B0B9-40FB-4295-A061-2F95C5126CC2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习2-判断是否有0", "练习2-判断是否有0\练习2-判断是否有0.pyproj", "{CC28F61E-1243-4BFA-A721-CE4F98321763}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习3-判断首字母", "练习3-判断首字母\练习3-判断首字母.pyproj", "{21A0203F-51E6-43AF-8F30-6A4C926EB80F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习4-字符串中的最值", "练习4-字符串中的最值\练习4-字符串中的最值.pyproj", "{AFB320F2-8423-402E-9EBF-8E72AEBC089E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3735B0B9-40FB-4295-A061-2F95C5126CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3735B0B9-40FB-4295-A061-2F95C5126CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC28F61E-1243-4BFA-A721-CE4F98321763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC28F61E-1243-4BFA-A721-CE4F98321763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A0203F-51E6-43AF-8F30-6A4C926EB80F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A0203F-51E6-43AF-8F30-6A4C926EB80F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB320F2-8423-402E-9EBF-8E72AEBC089E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB320F2-8423-402E-9EBF-8E72AEBC089E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C3D7689-E694-460E-AE71-1A06DA86F658}
+	EndGlobalSection
+EndGlobal

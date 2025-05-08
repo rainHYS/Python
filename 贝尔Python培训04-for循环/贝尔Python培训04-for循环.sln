@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习1-除了某个数字", "练习1-除了某个数字\练习1-除了某个数字.pyproj", "{C99C7B5C-1CFA-44BA-931E-218F80E0F141}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习2-输出大写字母", "练习2-输出大写字母\练习2-输出大写字母.pyproj", "{274587B5-E9EC-4DF3-91C7-53A249303536}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习3-找倍数", "练习3-找倍数\练习3-找倍数.pyproj", "{4E53775D-1B95-4C50-B99A-FAF26529EEA0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习4-求和", "练习4-求和\练习4-求和.pyproj", "{D1426268-FB45-4173-9A4F-C88301DD90C0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习5-字符串里的数字求和", "练习5-字符串里的数字求和\练习5-字符串里的数字求和.pyproj", "{2E1919CD-89F2-40CE-BB92-AAAF81DF9100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C99C7B5C-1CFA-44BA-931E-218F80E0F141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99C7B5C-1CFA-44BA-931E-218F80E0F141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274587B5-E9EC-4DF3-91C7-53A249303536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274587B5-E9EC-4DF3-91C7-53A249303536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E53775D-1B95-4C50-B99A-FAF26529EEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E53775D-1B95-4C50-B99A-FAF26529EEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1426268-FB45-4173-9A4F-C88301DD90C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1426268-FB45-4173-9A4F-C88301DD90C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1919CD-89F2-40CE-BB92-AAAF81DF9100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1919CD-89F2-40CE-BB92-AAAF81DF9100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB24A664-5C7C-42D9-998D-294F26212643}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习1-判断数字是否为10", "练习1-判断数字是否为10\练习1-判断数字是否为10.pyproj", "{DAAD7E40-D147-4A97-ACD6-55059E14EF41}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习2-判断成绩", "练习2-判断成绩\练习2-判断成绩.pyproj", "{C0D82C4D-8ACF-4D68-AFFD-DCD66D05557A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习3-输入两个数求商", "练习3-输入两个数求商\练习3-输入两个数求商.pyproj", "{AC57B8C2-FFB6-4B59-9FB8-1EEE5A35E1A5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习4-输出星期几", "练习4-输出星期几\练习4-输出星期几.pyproj", "{B7ADFAA7-61E7-4777-A37F-F6F8A576C3CA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习5-判断能否组成三角形", "练习5-判断能否组成三角形\练习5-判断能否组成三角形.pyproj", "{A502BFC3-223B-40BE-922B-0C265CDACB56}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习6-简单计算器", "练习6-简单计算器\练习6-简单计算器.pyproj", "{86F8D094-50BE-41C3-8AFF-E24DDEAA8E35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAAD7E40-D147-4A97-ACD6-55059E14EF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAAD7E40-D147-4A97-ACD6-55059E14EF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D82C4D-8ACF-4D68-AFFD-DCD66D05557A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D82C4D-8ACF-4D68-AFFD-DCD66D05557A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC57B8C2-FFB6-4B59-9FB8-1EEE5A35E1A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC57B8C2-FFB6-4B59-9FB8-1EEE5A35E1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7ADFAA7-61E7-4777-A37F-F6F8A576C3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7ADFAA7-61E7-4777-A37F-F6F8A576C3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A502BFC3-223B-40BE-922B-0C265CDACB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A502BFC3-223B-40BE-922B-0C265CDACB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F8D094-50BE-41C3-8AFF-E24DDEAA8E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F8D094-50BE-41C3-8AFF-E24DDEAA8E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8E7A948-B52F-4779-90DE-20242C2903C7}
+	EndGlobalSection
+EndGlobal
