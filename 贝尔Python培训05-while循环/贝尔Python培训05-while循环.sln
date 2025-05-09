@@ -1,18 +1,58 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习1-登陆系统", "练习1-登陆系统\练习1-登陆系统.pyproj", "{3848344A-31EB-4D02-A0CC-2E9AC94DF694}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习2-又找公倍数", "练习2-又找公倍数\练习2-又找公倍数.pyproj", "{CAA8AF14-8E60-4644-B192-1879CA12D2C3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习3-字符串反向输出", "练习3-字符串反向输出\练习3-字符串反向输出.pyproj", "{F7FFE4B8-ABE4-43EC-AB00-60A53B407059}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习4-直到和大于1000", "练习4-直到和大于1000\练习4-直到和大于1000.pyproj", "{59701DD7-F415-44F3-864B-E7D55C3ECFCE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习5-投资收益", "练习5-投资收益\练习5-投资收益.pyproj", "{7D01B198-2F5B-48C7-AFF4-9D9314B656A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3848344A-31EB-4D02-A0CC-2E9AC94DF694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3848344A-31EB-4D02-A0CC-2E9AC94DF694}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3848344A-31EB-4D02-A0CC-2E9AC94DF694}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{3848344A-31EB-4D02-A0CC-2E9AC94DF694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3848344A-31EB-4D02-A0CC-2E9AC94DF694}.Release|x64.ActiveCfg = Release|Any CPU
+		{3848344A-31EB-4D02-A0CC-2E9AC94DF694}.Release|x86.ActiveCfg = Release|Any CPU
+		{CAA8AF14-8E60-4644-B192-1879CA12D2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA8AF14-8E60-4644-B192-1879CA12D2C3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CAA8AF14-8E60-4644-B192-1879CA12D2C3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CAA8AF14-8E60-4644-B192-1879CA12D2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA8AF14-8E60-4644-B192-1879CA12D2C3}.Release|x64.ActiveCfg = Release|Any CPU
+		{CAA8AF14-8E60-4644-B192-1879CA12D2C3}.Release|x86.ActiveCfg = Release|Any CPU
+		{F7FFE4B8-ABE4-43EC-AB00-60A53B407059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FFE4B8-ABE4-43EC-AB00-60A53B407059}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F7FFE4B8-ABE4-43EC-AB00-60A53B407059}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F7FFE4B8-ABE4-43EC-AB00-60A53B407059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FFE4B8-ABE4-43EC-AB00-60A53B407059}.Release|x64.ActiveCfg = Release|Any CPU
+		{F7FFE4B8-ABE4-43EC-AB00-60A53B407059}.Release|x86.ActiveCfg = Release|Any CPU
+		{59701DD7-F415-44F3-864B-E7D55C3ECFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59701DD7-F415-44F3-864B-E7D55C3ECFCE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{59701DD7-F415-44F3-864B-E7D55C3ECFCE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{59701DD7-F415-44F3-864B-E7D55C3ECFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59701DD7-F415-44F3-864B-E7D55C3ECFCE}.Release|x64.ActiveCfg = Release|Any CPU
+		{59701DD7-F415-44F3-864B-E7D55C3ECFCE}.Release|x86.ActiveCfg = Release|Any CPU
+		{7D01B198-2F5B-48C7-AFF4-9D9314B656A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D01B198-2F5B-48C7-AFF4-9D9314B656A0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7D01B198-2F5B-48C7-AFF4-9D9314B656A0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7D01B198-2F5B-48C7-AFF4-9D9314B656A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D01B198-2F5B-48C7-AFF4-9D9314B656A0}.Release|x64.ActiveCfg = Release|Any CPU
+		{7D01B198-2F5B-48C7-AFF4-9D9314B656A0}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

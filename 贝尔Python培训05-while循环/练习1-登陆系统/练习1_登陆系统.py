@@ -11,8 +11,14 @@
 [样例输出]
 登陆成功 
 '''
-account, code = "Python", "1234"
-userAccount = input("请输入账号：")
-userCode = input("请输入密码：")
+account, password = "Python", "1234"
 
-print("登陆成功" if userAccount == account and userCode == code else "账号或者密码错误，请重新输入")
+while True:
+    userAccount = input("请输入账号：")
+    userPassword = input("请输入密码：")
+    
+    if userAccount == account and userPassword == password:
+        print("登陆成功")
+        break
+    else:
+        print("账号或者密码错误，请重新输入")
