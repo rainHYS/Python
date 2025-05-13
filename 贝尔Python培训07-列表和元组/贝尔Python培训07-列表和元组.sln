@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习1-最大最小值", "练习1-最大最小值\练习1-最大最小值.pyproj", "{58112DE1-8BF6-4BBF-AE46-368914772B8F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习2-对应关系", "练习2-对应关系\练习2-对应关系.pyproj", "{F329C356-FD73-4A65-81C5-4A1E325A377A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习3-列表元素交换位置", "练习3-列表元素交换位置\练习3-列表元素交换位置.pyproj", "{56B402C5-44BD-4B32-9684-7861A8D2C8F1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习4-数字反向输出", "练习4-数字反向输出\练习4-数字反向输出.pyproj", "{E18F1815-6049-4AD4-A7C2-61758CFE0052}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习5-不同成绩", "练习5-不同成绩\练习5-不同成绩.pyproj", "{5C903444-3085-44AC-8941-00D99DFD7F7A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "练习6-购物车", "练习6-购物车\练习6-购物车.pyproj", "{06C4980C-6C5E-4783-B4CF-7F0164FD6D16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58112DE1-8BF6-4BBF-AE46-368914772B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58112DE1-8BF6-4BBF-AE46-368914772B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F329C356-FD73-4A65-81C5-4A1E325A377A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F329C356-FD73-4A65-81C5-4A1E325A377A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B402C5-44BD-4B32-9684-7861A8D2C8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B402C5-44BD-4B32-9684-7861A8D2C8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18F1815-6049-4AD4-A7C2-61758CFE0052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18F1815-6049-4AD4-A7C2-61758CFE0052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C903444-3085-44AC-8941-00D99DFD7F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C903444-3085-44AC-8941-00D99DFD7F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C4980C-6C5E-4783-B4CF-7F0164FD6D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C4980C-6C5E-4783-B4CF-7F0164FD6D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5CB293A-18F7-4345-A320-5EBBE726DDC1}
+	EndGlobalSection
+EndGlobal

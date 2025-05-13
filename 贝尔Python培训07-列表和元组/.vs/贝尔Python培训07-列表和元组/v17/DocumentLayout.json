@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Code\\Python\\\u8D1D\u5C14Python\u57F9\u8BAD06-\u5D4C\u5957\u5FAA\u73AF\\",
+  "WorkspaceRootPath": "E:\\Code\\Python\\\u8D1D\u5C14Python\u57F9\u8BAD07-\u5217\u8868\u548C\u5143\u7EC4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DF36E7F-F527-4C80-8EDE-0BC974CEA7D0}|\u7EC3\u4E603-\u6C42e\u7684\u503C\\\u7EC3\u4E603-\u6C42e\u7684\u503C.pyproj|E:\\Code\\Python\\\u8D1D\u5C14Python\u57F9\u8BAD06-\u5D4C\u5957\u5FAA\u73AF\\\u7EC3\u4E603-\u6C42e\u7684\u503C\\\u7EC3\u4E603_\u6C42e\u7684\u503C.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8DF36E7F-F527-4C80-8EDE-0BC974CEA7D0}|\u7EC3\u4E603-\u6C42e\u7684\u503C\\\u7EC3\u4E603-\u6C42e\u7684\u503C.pyproj|solutionrelative:\u7EC3\u4E603-\u6C42e\u7684\u503C\\\u7EC3\u4E603_\u6C42e\u7684\u503C.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{06C4980C-6C5E-4783-B4CF-7F0164FD6D16}|\u7EC3\u4E606-\u8D2D\u7269\u8F66\\\u7EC3\u4E606-\u8D2D\u7269\u8F66.pyproj|E:\\Code\\Python\\\u8D1D\u5C14Python\u57F9\u8BAD07-\u5217\u8868\u548C\u5143\u7EC4\\\u7EC3\u4E606-\u8D2D\u7269\u8F66\\\u7EC3\u4E606_\u8D2D\u7269\u8F66.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{06C4980C-6C5E-4783-B4CF-7F0164FD6D16}|\u7EC3\u4E606-\u8D2D\u7269\u8F66\\\u7EC3\u4E606-\u8D2D\u7269\u8F66.pyproj|solutionrelative:\u7EC3\u4E606-\u8D2D\u7269\u8F66\\\u7EC3\u4E606_\u8D2D\u7269\u8F66.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\u7EC3\u4E603_\u6C42e\u7684\u503C.py",
-              "DocumentMoniker": "E:\\Code\\Python\\\u8D1D\u5C14Python\u57F9\u8BAD06-\u5D4C\u5957\u5FAA\u73AF\\\u7EC3\u4E603-\u6C42e\u7684\u503C\\\u7EC3\u4E603_\u6C42e\u7684\u503C.py",
-              "RelativeDocumentMoniker": "\u7EC3\u4E603-\u6C42e\u7684\u503C\\\u7EC3\u4E603_\u6C42e\u7684\u503C.py",
-              "ToolTip": "E:\\Code\\Python\\\u8D1D\u5C14Python\u57F9\u8BAD06-\u5D4C\u5957\u5FAA\u73AF\\\u7EC3\u4E603-\u6C42e\u7684\u503C\\\u7EC3\u4E603_\u6C42e\u7684\u503C.py",
-              "RelativeToolTip": "\u7EC3\u4E603-\u6C42e\u7684\u503C\\\u7EC3\u4E603_\u6C42e\u7684\u503C.py",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Title": "\u7EC3\u4E606_\u8D2D\u7269\u8F66.py",
+              "DocumentMoniker": "E:\\Code\\Python\\\u8D1D\u5C14Python\u57F9\u8BAD07-\u5217\u8868\u548C\u5143\u7EC4\\\u7EC3\u4E606-\u8D2D\u7269\u8F66\\\u7EC3\u4E606_\u8D2D\u7269\u8F66.py",
+              "RelativeDocumentMoniker": "\u7EC3\u4E606-\u8D2D\u7269\u8F66\\\u7EC3\u4E606_\u8D2D\u7269\u8F66.py",
+              "ToolTip": "E:\\Code\\Python\\\u8D1D\u5C14Python\u57F9\u8BAD07-\u5217\u8868\u548C\u5143\u7EC4\\\u7EC3\u4E606-\u8D2D\u7269\u8F66\\\u7EC3\u4E606_\u8D2D\u7269\u8F66.py",
+              "RelativeToolTip": "\u7EC3\u4E606-\u8D2D\u7269\u8F66\\\u7EC3\u4E606_\u8D2D\u7269\u8F66.py",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAACgAAAAwAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhPrVTPTxNREP627e7SQm0F2mKLUEVICP5IMBqUhB6NJ4/GGGPwoIf\u002BCR7VxBBPhnAxAeVC4kEuJB6Qi0Y8oCGKpoKQUpEWAhX6c7vb3X1Ol5UauzEc/JLJm31v3pdv5u0M/isYY5zpGohEIs8GBgZu8Dxv7tQik8mwbDb7YGpq6lEqlcqa2/twmOs\u002BBgcHEQgEzK9azMzMsHg8fsdut7Pp6enHKysrafPIQA1hBRRkelUQAcLhMEi9jTLxdnZ23pZl2elwOIYWFxe3zTBrwmAwaHpVcFy1OoIg8P39/c1Efo3KJquq\u002BpBEFCpnNiPiL9CFGvtd14rSyclJDA8P22dnZ1tcLlevKIp\u002B45BgqXBpacn0qqDUQGniXN9F9J6/AIeNg1TIyaOjo9/NEAOWhN3d3aZXRV5W8Sq2jY2sBElSwFNuR9x2x5HWtkabrZrogRXKDUEsb\u002BSxmSlg7tsG1LICX4PAX\u002Blpbff7/Q1mmHUNK6/5t2WKKt4uphBbS0NXy2QasvkiV1RtTrfb7TKvWhNWoGkaNHD4ulXGxNwmPibSOH3Ui95wI5rqeahESq8Ln7dwavLpjXe69HlB1/U2y5RXV1eNdb3E48VCDuvpHF1WoJWJhEyjdHWNVNKvJHBbgDQPlOZ74Ls7ZKmwq6vLsCKrw\u002BZu3lCjl1UquA6P0wGPi4eX7EzYhdNB6j5NoiL/AJS1S5YKY7GYsa6tS5BlUkOptTU6EI1IcNp3aQboNAh0eIUdhJybgFrcI9V2Pf9U2B4KQKCIisLbEQFnWz6gx7eMk/4VnGyOobU\u002BDk79SQF5IqNG4YM7loSKohjWfljE8WYn3KIdvkM6OKYBukIEMq2kkj7BiIJRF9Wd0iCEnlimnEwmjVUkuxU5jgzdD3jooUpEppWosT1kTlJE/S127UA89gV1J76Nj48PWRJ2dHSY3h4qg0HUkwz5AmcQajRc6vtIGRHam9aev1y/9/r1xNuRkZFiDeHY2Nj\u002BIPgTN69fThwVQ2Eon4iQHiD3HqzhPNOcvek3b\u002B7HK2Rm6MFAY\u002BoQ08uPWCmRYvl5ncnJBO29JLsajUbDe1HAL6CnYE1YMsFsAAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-05-09T05:02:41.799Z",
+              "WhenOpened": "2025-05-09T11:20:05.445Z",
               "EditorCaption": ""
             }
           ]
